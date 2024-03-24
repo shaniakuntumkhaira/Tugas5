@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Tugas 5</string>
+    <string name="aplikasi_hp" translatable="false">Aplikasi HP</string>
+    <string name="text1" translatable="false">Nama Pelanggan</string>
+    <string name="text2" translatable="false">Masukkan kode barang</string>
+    <string name="text3" translatable="false">Masukkan jumlah barang</string>
+    <string name="text4" translatable="false">Jenis Keanggotaan</string>
+    <string name="kode1" translatable="false">Emas</string>
+    <string name="kode2" translatable="false">Perak</string>
+    <string name="kode3" translatable="false">Biasa</string>
+    <string name="button_proses" translatable="false">Proses</string>
+
+
+    <string name="text5" translatable="false">"Selamat Datang "</string>
+    <string name="text6" translatable="false">"Tipe Member : "</string>
+    <string name="text7" translatable="false">"Transaksi Hari Ini : "</string>
+    <string name="text8" translatable="false">"Kode Barang : "</string>
+    <string name="text9" translatable="false">"Nama Barang : "</string>
+    <string name="text10" translatable="false">"Harga : "</string>
+    <string name="text12" translatable="false">"Harga Diskon : "</string>
+    <string name="text13" translatable="false">"Diskon Member : "</string>
+    <string name="text14" translatable="false">"Jumlah Bayar : "</string>
+    <string name="text15" translatable="false">Terima Kasih Telah Berbelanja Disini!</string>
+    <string name="button_bagikan" translatable="false">Bagikan</string>
+    <string name="text11" translatable="false">"Total Harga : "</string>
+    <string name="text16" translatable="false">"Harga Barang : "</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas 5</string>
+    <string name="aplikasi_hp">HPアプリケーション</string>
+    <string name="text1">お客様のお名前</string>
+    <string name="text2">アイテムコードを入力してください</string>
+    <string name="text3">アイテム数を入力してください</string>
+    <string name="text4">会員の種類</string>
+    <string name="kode1">金</string>
+    <string name="kode2">銀</string>
+    <string name="kode3">普通</string>
+    <string name="button_proses">プロセス</string>
+    <string name="text5">"いらっしゃいませ "</string>
+    <string name="text6">"メンバータイプ : "</string>
+    <string name="text7">"今日の取引 : "</string>
+    <string name="text8">"アイテムコード : "</string>
+    <string name="text9">"商品名 : "</string>
+    <string name="text10">"価格 : "</string>
+    <string name="text11">"合計金額 :  "</string>
+    <string name="text12">"割引価格 : "</string>
+    <string name="text13">"会員割引 : "</string>
+    <string name="text14">"支払金額 : "</string>
+    <string name="text15">ここでお買い物していただきありがとうございます!</string>
+    <string name="button_bagikan">"共有 "</string>
+    <string name="text16">"商品の価格 : "</string>
+</resources>

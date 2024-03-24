@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas 5</string>
+    <string name="aplikasi_hp">HP-Anwendung</string>
+    <string name="text1">Kundenname</string>
+    <string name="text2">Geben Sie den Artikelcode ein</string>
+    <string name="text3">Geben Sie die Anzahl der Artikel ein</string>
+    <string name="text4">Art der Mitgliedschaft</string>
+    <string name="kode1">Gold</string>
+    <string name="kode2">Silber</string>
+    <string name="kode3">Normal</string>
+    <string name="button_proses">Verfahren</string>
+    <string name="text5">"Willkommen "</string>
+    <string name="text6">"Mitgliedstyp : "</string>
+    <string name="text7">"Heutige Transaktionen : "</string>
+    <string name="text8">"Produktcode : "</string>
+    <string name="text9">"Artikelbezeichnung : "</string>
+    <string name="text10">"Preis : "</string>
+    <string name="text11">"Gesamtpreis : "</string>
+    <string name="text12">"Reduzierter Preis : "</string>
+    <string name="text13">"Mitgliederrabatt : "</string>
+    <string name="text14">"Zahlungsbetrag : "</string>
+    <string name="text15">Vielen Dank für Ihren Einkauf hier!</string>
+    <string name="button_bagikan">Aktie</string>
+    <string name="text16">"Warenpreis : "</string>
+</resources>
